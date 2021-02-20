@@ -1,0 +1,10 @@
+body {
+    background-image: linear-gradient(to right, #EF621F, #3C09CF);
+    background-repeat: no-repeat;
+    background-color: #CA0749;
+    
+}
+
+.container {
+    height: 100vh;
+}
